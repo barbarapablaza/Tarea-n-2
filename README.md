@@ -1,8 +1,13 @@
 # Tarea-n-2
 
-*Reseña del proyecto.
+Reseña del proyecto.
 
-A modo de introducción se presentarán las páginas que utilizaremos para el proyecto. Éstas son las siguientes:
+A modo de introducción se presentarán las fuentes que utilizaremos para el proyecto. Éstas son las siguientes:
+
+* Latam
+* Skyairline
+* Jetsmart
+
 
 -https://jetsmart.com/cl/es/
 -https://latampass.latam.com/es_cl/
